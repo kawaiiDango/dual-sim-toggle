@@ -1,4 +1,4 @@
-## Dual Sim Toggle for AOSP based roms
+## Dual Sim Toggle for AOSP based ROMs
 
 Extremely minimalistic app with 3 buttons.
 Can toggle individual SIM cards and optionally apply on boot, before the phone is unlocked.
